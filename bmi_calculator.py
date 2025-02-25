@@ -1,4 +1,4 @@
-# #Advanced BMI Calculator with UI and data storage
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 import csv
